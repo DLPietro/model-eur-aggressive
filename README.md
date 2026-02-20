@@ -1,3 +1,4 @@
+Portfolio Structure
 ```
 model-eur-aggressive/
 │
@@ -9,12 +10,9 @@ model-eur-aggressive/
 │  ├─ 2_risk_return.ipynb
 │  └─ 3_scenarios_recommendations.ipynb
 ├─ reports/
-│  ├─ slides_en.md
-│  └─ slides_it.md
+│  └─ slides_en.md
 ├─ src/
 │  └─ revenue.py
 ├─ README.md
 └─ requirements.txt
 ```
-
-Portfolio Structure
