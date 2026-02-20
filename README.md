@@ -12,7 +12,7 @@ model-eur-aggressive/
 │  ├─ slides_en.md
 │  └─ slides_it.md
 ├─ src/
-│  └─ revenue.py      # funzioni di supporto semplici
+│  └─ revenue.py
 ├─ README.md
 └─ requirements.txt
 ```
