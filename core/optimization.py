@@ -1,4 +1,4 @@
-# portfolio_engine/core/optimization.py
+# model-eur-aggressive/core/optimization.py
 import numpy as np
 import pandas as pd
 from typing import Dict
